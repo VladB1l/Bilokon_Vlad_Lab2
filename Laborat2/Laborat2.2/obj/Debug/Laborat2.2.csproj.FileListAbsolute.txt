@@ -1,0 +1,7 @@
+C:\Users\Vlad\source\repos\Laborat2\Laborat2.2\bin\Debug\Laborat2.2.exe.config
+C:\Users\Vlad\source\repos\Laborat2\Laborat2.2\bin\Debug\Laborat2.2.exe
+C:\Users\Vlad\source\repos\Laborat2\Laborat2.2\bin\Debug\Laborat2.2.pdb
+C:\Users\Vlad\source\repos\Laborat2\Laborat2.2\obj\Debug\Laborat2.2.csproj.AssemblyReference.cache
+C:\Users\Vlad\source\repos\Laborat2\Laborat2.2\obj\Debug\Laborat2.2.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\Laborat2\Laborat2.2\obj\Debug\Laborat2.2.exe
+C:\Users\Vlad\source\repos\Laborat2\Laborat2.2\obj\Debug\Laborat2.2.pdb
